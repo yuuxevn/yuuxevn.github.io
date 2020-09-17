@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Yuxxeun&#39;s Blog</title>
   
-  
+  <subtitle>I have to write the meaning of my life</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://yuxxeun.github.io/"/>
