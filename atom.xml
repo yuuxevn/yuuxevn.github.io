@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Yuuxeun</title>
+  <title>Yuxxeun&#39;s Blog</title>
   
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="https://yuuxevn.github.io/"/>
+  <link href="https://yuxxeun.github.io/"/>
   <updated>2020-09-17T16:33:04.465Z</updated>
-  <id>https://yuuxevn.github.io/</id>
+  <id>https://yuxxeun.github.io/</id>
   
   <author>
-    <name>Yuuxeun</name>
+    <name>Yuxxeun</name>
     
   </author>
   
@@ -18,8 +18,8 @@
   
   <entry>
     <title>6575 days on Earth</title>
-    <link href="https://yuuxevn.github.io/6575-days-on-Earth/"/>
-    <id>https://yuuxevn.github.io/6575-days-on-Earth/</id>
+    <link href="https://yuxxeun.github.io/6575-days-on-Earth/"/>
+    <id>https://yuxxeun.github.io/6575-days-on-Earth/</id>
     <published>2020-09-17T16:33:04.000Z</published>
     <updated>2020-09-17T16:33:04.465Z</updated>
     
@@ -33,8 +33,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://yuuxevn.github.io/hello-world/"/>
-    <id>https://yuuxevn.github.io/hello-world/</id>
+    <link href="https://yuxxeun.github.io/hello-world/"/>
+    <id>https://yuxxeun.github.io/hello-world/</id>
     <published>2020-07-20T07:19:18.407Z</published>
     <updated>2020-07-21T16:03:41.302Z</updated>
     
