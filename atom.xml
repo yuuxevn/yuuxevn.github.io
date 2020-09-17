@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://yuuxevn.github.io/"/>
-  <updated>2020-07-21T16:03:41.302Z</updated>
+  <updated>2020-09-17T16:33:04.465Z</updated>
   <id>https://yuuxevn.github.io/</id>
   
   <author>
@@ -15,6 +15,21 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>6575 days on Earth</title>
+    <link href="https://yuuxevn.github.io/6575-days-on-Earth/"/>
+    <id>https://yuuxevn.github.io/6575-days-on-Earth/</id>
+    <published>2020-09-17T16:33:04.000Z</published>
+    <updated>2020-09-17T16:33:04.465Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
