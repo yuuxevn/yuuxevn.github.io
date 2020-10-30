@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Yuxxeun&#39;s Blog</title>
+  <title>Yuxxeun</title>
   
   <subtitle>I have to write the meaning of my life</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://yuxxeun.github.io/"/>
-  <updated>2020-10-13T18:17:59.699Z</updated>
+  <updated>2020-10-30T02:03:00.313Z</updated>
   <id>https://yuxxeun.github.io/</id>
   
   <author>
@@ -15,6 +15,47 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hopefully..u die soon</title>
+    <link href="https://yuxxeun.github.io/Hopefully-u-die-soon/"/>
+    <id>https://yuxxeun.github.io/Hopefully-u-die-soon/</id>
+    <published>2020-10-30T01:27:03.000Z</published>
+    <updated>2020-10-30T02:03:00.313Z</updated>
+    
+    <content type="html"><![CDATA[<p><em>Upss..sorry</em></p><p>Semoga adalah kata untuk sebuah harapan. “Semoga lekas sembuh”, “Semoga sukses”, dsb.</p><p>Buat gue kata semoga ini kesannya lebih pesimis, meskipun kita semua tahu bahwa <em>kita</em> yang merencanakan dan hasilnya tuhan yang menentukan.<br>Jika tidak menambahkan kata “semoga”, kesannya malah seperti sombong. Seakan-akan apa yang diucapkan bakal terjadi.</p><p>“Lekas sembuh ya”, “Sukses ya”.</p><p>Bukankah kita menambahkan kata “semoga” juga karena kita berharap hal tersebut(yang kita semogakan) tercapai, bukan?</p><p>Balik lagi, <strong>kita merencanakan, tuhan menentukan</strong>.</p><p>Entah mengucapkan semoga atau tidak,  gue rasa dua-dua nya sama-sama tahu tentang kalimat sebelum paragraf ini.</p><p>Setelah gue lihat lagi, perbedaanya cuma di eksplisitas. Dengan semoga, kita meng-eksplisitkan suatu pengharapan. Begitu pula sebaliknya, entah menggunakan semoga atau tidak, kita sama-sama berharap.</p><p>Kita sama-sama sadar, bahwasannya kita lemah karena yang maha kuat adalah Tuhan.</p><p>Kita sama-sama sadar, bahwasannya kita hanya bisa merencanakan karena pada akhirnya tuhan-lah yang menentukan.</p><p>Tapi ada satu faktor yang menjadi suatu penentu: <strong>Ikhtiar kita. Usaha kita</strong>.</p><p>Perkataan “Semoga lekas sembuh” ataupun “Sukses ya” tidak akan terwujud bila kita tidak ada usaha untuk sembuh ataupun sukses.</p><p>Karena doa adalah doa, “Semoga tuhan menganpuni dosa-dosaku” kalau terus berbuat dosa, ya lucu, terlihat seperti “Semoga gue gak sakit” tapi menjalani hidup gak sehat. Begitupula dengan kata “Gue gak sakit” ketika menyakini diri sendiri saat menjalani hidup gak sehat.</p><p>Makin kesini gue semakin menghindari kata semoga kepada orang lain sebisa mungkin, gue buat agar seakan-akan dia optimis(yakin/pasti) bisa melakukannya. Terlepas bisa atau tidaknya, itu urusan belakang.</p><p>Yang penting, doa dulu; Usaha dulu, ikhtiar dulu.</p><p>Do it dulu.</p><p>Kemungkinan buruk yang tidak kita harapkan, tidak akan terjadi apabila kita tidak membuat hal itu terjadi. Tapi jangan lupa(apalagi sombong), kita hanyalah manusia. Karena <em>kita</em> adalah milik-Nya.</p><p>Terima kasih, <del>semoga harimu</del> harimu pasti menyenangkan!</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;&lt;em&gt;Upss..sorry&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Semoga adalah kata untuk sebuah harapan. “Semoga lekas sembuh”, “Semoga sukses”, dsb.&lt;/p&gt;
+&lt;p&gt;Buat gue kata se
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>.cult</title>
+    <link href="https://yuxxeun.github.io/cult/"/>
+    <id>https://yuxxeun.github.io/cult/</id>
+    <published>2020-10-29T03:40:05.000Z</published>
+    <updated>2020-10-30T01:25:03.059Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+    
+      <category term="Engineering" scheme="https://yuxxeun.github.io/tags/Engineering/"/>
+    
+  </entry>
   
   <entry>
     <title>Stand Alone</title>
