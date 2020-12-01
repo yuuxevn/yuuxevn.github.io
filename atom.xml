@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://yuxxeun.github.io/"/>
-  <updated>2020-10-30T02:03:00.313Z</updated>
+  <updated>2020-12-01T03:49:58.021Z</updated>
   <id>https://yuxxeun.github.io/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>.cult</title>
+    <link href="https://yuxxeun.github.io/cult/"/>
+    <id>https://yuxxeun.github.io/cult/</id>
+    <published>2020-12-01T02:05:17.000Z</published>
+    <updated>2020-12-01T03:49:58.021Z</updated>
+    
+    <content type="html"><![CDATA[<p><em>Bukankah setiap dari “kita” <strong>seharusnya</strong> bisa menulis kode?…</em></p><p>Uji Kompetensi, dari namanya saja sudah menggambarkan kalau kegiatan ini merupakan suatu kegiatan yang bertujuan untuk menilai seberapa <del>ahli</del> kompeten kita dalam bidang yang ditekuni.</p><p>Jauh-jauh hari beberapa guru gue bilang kalau, sekolah akan mengadakan uji kompetensi untuk kelas 12 (dari dulu juga gitu) dan dikabarkan juga hanya ada dua hasil dari ujian tersebut yap, kompeten (mendapatkan sertifikat) dan tidak kompeten (otomatis tidak). Dari situ gue mikir kalau ujian ini besar kecilnya berpengaruh buat gue, karena ya gue pengin kerja di industri ini dan sertifikatnya bisa gue pakai untuk melamar kerja (walaupun tetap butuh portfolio).</p><p>Akhirnya gue mutusin buat belajar lagi tentang materi yang dipakai, buat jaga-jaga aja siapa tau ada yang belum gue pahami. Dan benar saja gue mengalami “sedikit” kesulitan saat mengerjakan soal praktik (karena materi yang dipakai menggunakan bahasa pemrograman C++, yang mana <strong>hanya</strong> dipelajari saat kelas 10).</p><p>Tapi itu bukan menjadi alasan, gue sadar kalau gue “kurang” dalam hal praktik. Maka dari itu gue berlatih terus-menerus.<br><em><code>^seikhlas info, ujiannya teori dan praktik.</code></em></p><p>Singkat cerita hari H dimana ujian tersebut tiba, dan ya gue dan teman-teman mengerjakan soal praktik. Ya walaupun sempat mengalami beberapa <em>error</em> tapi akhirnya gue bisa menyelesaikan programnya.</p><p>Selesai dengan program, gue nyamperin salah satu temen yang berada di ruangan yang sama, dan gue tanya-tanya seputar soal praktik tadi.<br>“Gimana? lancar kan?”, tanya gue (ekspektasi gue dia bisa menyelesaikan juga).<br>Tau jawabannya apa?<br>“Lancar lah, kan tinggal ctrl + v alias <em>copy paste</em>“, semoga lo ga asma dengernya hehe.</p><p>Belum puas? ada juga yang ngasih flashdisk (tau lah isinya apa haha) waktu istirahat.<br>Gue langusng mikir “apa ‘budaya’ kita separah ini?”. Setelah gue sadar, hal tersebut bisa terjadi karena kurangnya pengawasan dari pihak institusi dan kesadaran masing-masing individu. Menurut gue ya mending sadar diri lah (kalau ga bisa ya ngaku aja…HAHA), iya gak sih?</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;&lt;em&gt;Bukankah setiap dari “kita” &lt;strong&gt;seharusnya&lt;/strong&gt; bisa menulis kode?…&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Uji Kompetensi, dari namanya saja sudah mengg
+      
+    
+    </summary>
+    
+    
+    
+      <category term="Engineering" scheme="https://yuxxeun.github.io/tags/Engineering/"/>
+    
+  </entry>
   
   <entry>
     <title>Hopefully..u die soon</title>
@@ -37,23 +62,6 @@
     </summary>
     
     
-    
-  </entry>
-  
-  <entry>
-    <title>.cult</title>
-    <link href="https://yuxxeun.github.io/cult/"/>
-    <id>https://yuxxeun.github.io/cult/</id>
-    <published>2020-10-29T03:40:05.000Z</published>
-    <updated>2020-10-30T01:25:03.059Z</updated>
-    
-    <summary type="html">
-    
-    </summary>
-    
-    
-    
-      <category term="Engineering" scheme="https://yuxxeun.github.io/tags/Engineering/"/>
     
   </entry>
   
