@@ -1,10 +1,9 @@
 body {
-  color: #222831;
+  color: #000;
   font-size: calc(110% + 0.1vw);
   line-height: 1.6;
   background-color: #fff;
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell,
-    "Helvetica Neue", sans-serif;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", sans-serif, "HelveticaNeueLT Std";
 }
 
 .wrap {
@@ -25,7 +24,7 @@ p {
 
 a,
 a:active {
-  color: #222831;
+  color: #000;
   text-decoration: none;
 }
 
@@ -45,22 +44,41 @@ h6 {
   background-color: #9e1900;
 }
 
+.nav-list-link {
+  display: inline-block;
+}
+
+.nav-list-link:after {
+  content: '';
+  display: block;
+  background-color: transparent;
+  width: 0;
+  height: 1px;
+  transition: width .5s ease, bacground-color .5s ease;
+}
+
+.nav-list-link:hover:after {
+  width: 100%;
+  background-color: rgb(255, 31, 236);
+}
+
 .nav-list {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
+  color: magenta;
 }
-
+/*
 .nav-list-link {
   padding-bottom: .15em;
   border-bottom: .2em solid transparent;
 }
 
 .nav-list-link:hover {
-  border-bottom: .2em solid #9e1900;
+  border-bottom: .2em solid rgb(255, 31, 236);
   padding-bottom: .15em;
-  transition: 150ms ease-in-out;
-}
+  transition: 15ms ease-out;
+} */
 
 code {
   padding: .2em .4em;
@@ -185,7 +203,7 @@ header .nav-list-item a {
 }
 
 .home.post-list .read-more {
-  color: #9e1900;
+  color: #3bffff;
 }
 
 .archive .post-item {
@@ -195,15 +213,15 @@ header .nav-list-item a {
 }
 .archive .post-time,
 .archive .post-title-link {
-  font-size: 1rem;
+  font-size: 5rem;
 }
 .archive .post-title-link {
-  color: #9e1900;
+  color: #000000;
   padding-left: 1em;
 }
 .archive .post-title-link:hover {
   border-bottom: 0;
-  color: #801501;
+  color: #3bffff;
 }
 .archive .post-info {
   width: 6em;
@@ -294,7 +312,8 @@ header .nav-list-item a {
 }
 
 .post-content a {
-  color: #9e1900;
+  color: #f0ff17;
+  text-decoration: underline;
 }
 .post-content blockquote {
   margin: 2em 0;
@@ -370,18 +389,18 @@ header .nav-list-item a {
 .paginator .prev,
 .paginator .next {
   position: relative;
-  box-shadow: 0 .3em #801501;
+  box-shadow: 0 .3em rgb(255, 31, 236);
   display: inline-block;
   margin: 0 .2em;
   padding: .3em 1.5em;
   border-radius: 5px;
   color: #fff;
-  background-color: #9e1900;
+  background-color: #000;
   font-weight: 600;
 }
 .paginator .prev:hover,
 .paginator .next:hover {
-  box-shadow: 0 .2em #801501;
+  box-shadow: 0 .2em rgb(255, 31, 236);
   top: .1em;
 }
 
