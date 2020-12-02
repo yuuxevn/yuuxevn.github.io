@@ -203,7 +203,7 @@ header .nav-list-item a {
 }
 
 .home.post-list .read-more {
-  color: #3bffff;
+  color: red;
 }
 
 .archive .post-item {
@@ -213,15 +213,15 @@ header .nav-list-item a {
 }
 .archive .post-time,
 .archive .post-title-link {
-  font-size: 5rem;
+  font-size: 1rem;
 }
 .archive .post-title-link {
-  color: #000000;
+  color: red;
   padding-left: 1em;
 }
 .archive .post-title-link:hover {
   border-bottom: 0;
-  color: #3bffff;
+  color: black;
 }
 .archive .post-info {
   width: 6em;
@@ -312,7 +312,7 @@ header .nav-list-item a {
 }
 
 .post-content a {
-  color: #f0ff17;
+  color: red;
   text-decoration: underline;
 }
 .post-content blockquote {
