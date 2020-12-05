@@ -3,7 +3,7 @@ body {
   font-size: calc(110% + 0.1vw);
   line-height: 1.6;
   background-color: #fff;
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", sans-serif, "HelveticaNeueLT Std";
+  font-family: -apple-system, "Times New Roman";
 }
 
 .wrap {
@@ -53,16 +53,19 @@ h6 {
   display: block;
   background-color: transparent;
   width: 0;
-  height: 1px;
-  transition: width .5s ease, bacground-color .5s ease;
+  height: 2px;
+  transition: width .5s ease, background-color .5s ease;
 }
 
 .nav-list-link:hover:after {
   width: 100%;
-  background-color: rgb(255, 31, 236);
+  background: linear-gradient(90deg, rgba(225,124,243,1) 0%, rgba(32,230,241,1) 100%);
 }
 
 .nav-list {
+  font-family: "Cambria";
+  font-weight: bolder;
+  font-size: 25px;
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
@@ -184,8 +187,9 @@ header .nav-list-item a {
 }
 
 .home.post-list {
-  margin: 2em 0;
+  margin: 1.5em 0;
   list-style: none;
+  font-family: "Nimbus Sans Becker PBla" !important;
 }
 .home.post-list .post-list-item {
   padding: 1em .4em;
@@ -198,12 +202,21 @@ header .nav-list-item a {
 .home.post-list .post-content h6:before {
   content: "";
 }
+
+.post-content p {
+  font-size: 20px;
+}
 .home.post-list .post-content > ul {
   list-style: initial;
 }
 
+.home.post-info{
+  font-family: "Source Code Pro Medium";
+}
+
 .home.post-list .read-more {
-  color: red;
+  color: navy;
+  font-family: "Helvetica Neue LT Std 75" !important;
 }
 
 .archive .post-item {
@@ -216,7 +229,7 @@ header .nav-list-item a {
   font-size: 1rem;
 }
 .archive .post-title-link {
-  color: red;
+  color: rgb(20, 18, 139);
   padding-left: 1em;
 }
 .archive .post-title-link:hover {
@@ -227,6 +240,7 @@ header .nav-list-item a {
   width: 6em;
   font-size: .9em;
   color: #393e46;
+  font-family: "Source Code Pro Medium";
 }
 
 .post {
@@ -234,12 +248,13 @@ header .nav-list-item a {
 }
 
 .post-block .post-title {
-  margin: .65em 0;
+  margin: .1em 0;
   font-size: 1.5em;
 }
 .post-block .post-info {
   color: #393e46;
-  margin: 1.2em 0;
+  margin: .1em 0;
+  font-family: "Source Code Pro Medium";
 }
 .post-block .post-info span {
   margin-left: .5rem;
@@ -282,8 +297,9 @@ header .nav-list-item a {
 
 .post-content h1,
 .post-block .post-title {
-  margin-top: 2em;
-  font-size: 3em;
+  margin-top: .5em;
+  font-size: 4em;
+  font-family: "Nimbus Sans Becker PBla";
 }
 
 .post-content h2 {
@@ -312,7 +328,7 @@ header .nav-list-item a {
 }
 
 .post-content a {
-  color: red;
+  color: navy;
   text-decoration: underline;
 }
 .post-content blockquote {
@@ -389,7 +405,7 @@ header .nav-list-item a {
 .paginator .prev,
 .paginator .next {
   position: relative;
-  box-shadow: 0 .3em rgb(255, 31, 236);
+  box-shadow: 0 .2em #fff;
   display: inline-block;
   margin: 0 .2em;
   padding: .3em 1.5em;
@@ -397,10 +413,11 @@ header .nav-list-item a {
   color: #fff;
   background-color: #000;
   font-weight: 600;
+  font-family: "Source Code Pro" !important;
 }
 .paginator .prev:hover,
 .paginator .next:hover {
-  box-shadow: 0 .2em rgb(255, 31, 236);
+  box-shadow: 0 .1em #fff;
   top: .1em;
 }
 
@@ -410,6 +427,8 @@ header .nav-list-item a {
 }
 
 main.container {
+  border-image: linear-gradient(90deg, rgba(225,124,243,1) 0%, rgba(32,230,241,1) 100%) 1;
+  border-top: 4px solid;
   margin: 2em .7em;
   min-height: 30vh;
 }
@@ -432,6 +451,9 @@ footer .copyright {
   border-top: 1px solid #eee;
   text-align: center;
 }
+footer .copyright a {
+  color: navy !important;
+}
 footer .copyright p,
 footer .copyright a {
   padding: 1em 0;
@@ -439,7 +461,7 @@ footer .copyright a {
   font-weight: 300;
 }
 footer .copyright a:hover {
-  color: #393e46;
+  color: rgb(73, 73, 219);
 }
 
 code,
