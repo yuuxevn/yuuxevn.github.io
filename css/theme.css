@@ -1,9 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Castoro:ital@1&family=Source+Code+Pro&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Serif&display=swap');
 body {
   color: #000;
   font-size: calc(110% + 0.1vw);
   line-height: 1.6;
   background-color: #fff;
-  font-family: -apple-system, "Times New Roman";
+  font-family: 'IBM Plex Serif', serif;
 }
 
 .wrap {
@@ -63,7 +66,7 @@ h6 {
 }
 
 .nav-list {
-  font-family: "Cambria";
+  font-family: 'IBM Plex Serif', serif;
   font-weight: bolder;
   font-size: 25px;
   display: flex;
@@ -189,7 +192,7 @@ header .nav-list-item a {
 .home.post-list {
   margin: 1.5em 0;
   list-style: none;
-  font-family: "Nimbus Sans Becker PBla" !important;
+  font-family: 'Source Code Pro', monospace, 'Castoro', serif !important;
 }
 .home.post-list .post-list-item {
   padding: 1em .4em;
@@ -211,12 +214,12 @@ header .nav-list-item a {
 }
 
 .home.post-info{
-  font-family: "Source Code Pro Medium";
+  font-family: 'Source Code Pro', monospace;
 }
 
 .home.post-list .read-more {
   color: navy;
-  font-family: "Helvetica Neue LT Std 75" !important;
+  font-family: 'Source Code Pro', monospace, 'Castoro', serif !important;
 }
 
 .archive .post-item {
@@ -240,7 +243,7 @@ header .nav-list-item a {
   width: 6em;
   font-size: .9em;
   color: #393e46;
-  font-family: "Source Code Pro Medium";
+  font-family: 'Source Code Pro', monospace;
 }
 
 .post {
@@ -254,7 +257,7 @@ header .nav-list-item a {
 .post-block .post-info {
   color: #393e46;
   margin: .1em 0;
-  font-family: "Source Code Pro Medium";
+  font-family: 'Source Code Pro', monospace;
 }
 .post-block .post-info span {
   margin-left: .5rem;
@@ -299,7 +302,7 @@ header .nav-list-item a {
 .post-block .post-title {
   margin-top: .5em;
   font-size: 4em;
-  font-family: "Nimbus Sans Becker PBla";
+  font-family: 'Source Code Pro', monospace, 'Castoro', serif;
 }
 
 .post-content h2 {
