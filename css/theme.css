@@ -68,7 +68,7 @@ h6 {
 .nav-list {
   font-family: 'IBM Plex Serif', serif;
   font-weight: bolder;
-  font-size: 25px;
+  font-size: 18px;
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
@@ -301,8 +301,8 @@ header .nav-list-item a {
 .post-content h1,
 .post-block .post-title {
   margin-top: .5em;
-  font-size: 4em;
-  font-family: 'Source Code Pro', monospace, 'Castoro', serif;
+  font-size: 3em;
+  font-family: 'IBM Plex Serif', serif;
 }
 
 .post-content h2 {
