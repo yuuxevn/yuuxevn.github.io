@@ -38,6 +38,7 @@ h4,
 h5,
 h6 {
   letter-spacing: -.002em;
+  margin-top: 20px;
   font-weight: 600;
   line-height: 1.2;
 }
