@@ -1,6 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Castoro:ital@1&family=Source+Code+Pro&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Serif&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=PT+Serif&display=swap');
+
 body {
   color: #000;
   font-size: calc(110% + 0.1vw);
@@ -209,6 +211,7 @@ header .nav-list-item a {
 
 .post-content p {
   font-size: 20px;
+  font-family: 'PT Serif', serif;
 }
 .home.post-list .post-content > ul {
   list-style: initial;
