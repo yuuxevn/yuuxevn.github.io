@@ -18,7 +18,7 @@ body {
 }
 
 ul {
-  margin: 1rem 0;
+  margin: 0.1rem 0;
 }
 
 p {
@@ -42,7 +42,7 @@ h6 {
   letter-spacing: -.002em;
   margin-top: 20px;
   font-weight: 600;
-  line-height: 1.2;
+  line-height: 1.2; 
 }
 
 ::selection {
@@ -65,7 +65,7 @@ h6 {
 
 .nav-list-link:hover:after {
   width: 100%;
-  background: linear-gradient(90deg, rgba(225,124,243,1) 0%, rgba(32,230,241,1) 100%);
+  background: navy;
 }
 
 .nav-list {
@@ -437,10 +437,10 @@ header .nav-list-item a {
 }
 
 main.container {
-  border-image: linear-gradient(90deg, rgba(225,124,243,1) 0%, rgba(32,230,241,1) 100%) 1;
-  border-top: 4px solid;
-  margin: 2em .7em;
-  min-height: 30vh;
+  border-top: 4px solid navy;
+  border-width: 100%;
+  margin: -30px .7em;
+  /* min-height: 10vh; */
 }
 
 @media screen and (max-width: 700px) {
